@@ -3,7 +3,7 @@
   "description": "jQuery-resize - support for resize on ALL elements",
   "homepage": "https://github.com/mikeschaekermann/meteor-jquery-resize",
   "author": "Mike Schäkermann",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "git": "https://github.com/mikeschaekermann/meteor-jquery-resize.git",
   "packages": {}
 }
